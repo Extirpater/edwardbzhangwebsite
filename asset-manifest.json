@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edwardbzhangwebsite/static/css/main.e51bb8c1.css",
+    "main.js": "/edwardbzhangwebsite/static/js/main.3a38d7e6.js",
+    "static/js/787.a76bcb2f.chunk.js": "/edwardbzhangwebsite/static/js/787.a76bcb2f.chunk.js",
+    "index.html": "/edwardbzhangwebsite/index.html",
+    "main.e51bb8c1.css.map": "/edwardbzhangwebsite/static/css/main.e51bb8c1.css.map",
+    "main.3a38d7e6.js.map": "/edwardbzhangwebsite/static/js/main.3a38d7e6.js.map",
+    "787.a76bcb2f.chunk.js.map": "/edwardbzhangwebsite/static/js/787.a76bcb2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51bb8c1.css",
+    "static/js/main.3a38d7e6.js"
+  ]
+}
